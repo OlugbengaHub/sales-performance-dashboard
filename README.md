@@ -20,7 +20,7 @@ and bookmarks for presentation use.
 
 ## Screenshots
 ![Dashboard Overview](screenshots/dashboard_overview.png)
-![Regional Breakdown](screenshots/regional_breakdown.png)
+![Executive Summary](screenshots/dashboard_executive_summary.png).
 
 ## How to Use
 1. Download the `.pbix` file
